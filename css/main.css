@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.9)),url('../bg.svg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.card{
+	margin-top: 10px;
+}
